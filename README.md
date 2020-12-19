@@ -1,4 +1,4 @@
-# JWTDJANGO
+# JWT-DJANGO
 Languages-Paradigms Database
 #Serializers
 #ViewSets
